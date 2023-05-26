@@ -13,6 +13,8 @@
 ## Entity Linking
 
 ## Relation Extraction
+### Surveys
+- Hogan, W. (2022). An Overview of Distant Supervision for Relation Extraction with a Focus on Denoising and Pre-training Methods. ArXiv, abs/2207.08286. [Paper](https://arxiv.org/abs/2207.08286)  - Survey with a focus on Distant Supervision
 ### Classics
 - Mike Mintz, Steven Bills, Rion Snow, and Dan Jurafsky. Distant Supervision for Relation Extraction Without Labeled Data. In Proc. of ACL-IJCNLP, pages 1003–1011, 2009. [Paper](https://aclanthology.org/P09-1113/)
 - Sebastian Riedel, Limin Yao, and Andrew McCallum. Modeling Relations and Their Mentions without Labeled Text. In Proceedings of the European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD ’10), 2010. [Paper](https://link.springer.com/content/pdf/10.1007/978-3-642-15939-8_10.pdf)
